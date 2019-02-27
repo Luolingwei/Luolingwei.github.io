@@ -4,7 +4,7 @@ collection: teaching
 type: "Remote Sensing"
 permalink: /teaching/Research experience 1
 venue: "Wuhan University"
-date: 2016-03 — 2017-12
+date: 2016.03
 location: "Wuhan, China"
 ---
 
