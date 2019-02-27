@@ -4,7 +4,7 @@ collection: teaching
 type: "Geography"
 permalink: /teaching/Research experience 2
 venue: "Wuhan University"
-date: 2018.07
+date: 2018-07
 location: "Wuhan, China"
 ---
 

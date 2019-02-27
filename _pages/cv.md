@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geographical Information Science, Wuhan University, 2018
-* M.S. in Physical Geography (quit), Peking University, 2019
+* B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
+* M.S. in Physical Geography (quit), Peking University, 2018.09-2019.06
 
 Work experience
 ======
@@ -46,6 +46,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2015.09  Excellent student of Wuhan University (Top 30%) 
+* 2015.09  Third Class Scholarship of Wuhan University (Top 30%) 
+* 2015.11  Second Prize Award of the 7th Mathematics Competition of Chinese College Students (Top 12.5%) 
+* 2016.06  Excellent League Leader of Wuhan University (Top 20%) 
+* 2016.09  Merit Student of Wuhan University (Top 10%) 
+* 2016.09  National Encouragement scholarship (Top 10%) 
+* 2016.09  Second Class Scholarship of Wuhan University (Top 15%) 
+* 2016.10  Third Prize Award of the 8th Mathematics Competition of Chinese College Students (Top 20%) 
+* 2016.11  First Prize Award of Asia and Pacific Mathematical Contest in Modeling (Top 5%) 
+* 2016.12  Second Prize Award of the 23rd English Translation Competition of Hubei Province, China (Top 0.9%) 
+* 2017.01  Honorable Mention Prize Award of COMAP's Mathematical Contest in Modeling (Top 40%) 
+* 2017.04  Second Prize Award of National English Competition for College Students (Top 1.8%) 
+* 2017.05  Third Prize Award of “CSEE Cup” 2017 National Mathematical Modeling Competition (Top 20%)
+* 2017.05  Second Prize Award of the 7th “MathorCup” Undergraduate Mathematical Modeling Challenge (Top 13%) 
+* 2017.06 “Research Star” of School of Resources and Environmental Sciences, Wuhan University (Top 1%) 
+* 2017.07  Second Prize Award of Chinese“Internet+”Innovation and Entrepreneurship Competition (Top 15%) 
+* 2017.09  Merit Student of Wuhan University (Top 10%) 
+* 2017.09 “Wang Zhizhuo”Innovative Talents Scholarship (Top 10%) 
+* 2017.09  First Class Scholarship of Wuhan University (Top 5%) 
+* 2018.09  Outstanding undergraduate thesis (Top 5%) 
