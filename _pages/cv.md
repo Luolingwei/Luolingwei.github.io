@@ -11,31 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Geographical Information Science, Wuhan University, 2018
+* M.S. in Physical Geography (quit), Peking University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.11 - Present :  Data Analysis Intern
+  * DiDi Company
+  * Supervisor: He Zhao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Language Skills: Mandarin Chinese (Native), English (Fluent): CET-6: 560/710 IELTS:7.0 
+* Software Skills: Excel (Proficient), PPT (Proficient), Photoshop (Master), Tableau (Proficient)
+ SPSS (Proficient) PyCharm (Proficient), Eclipse (Master), Visual Studio (Master)
+* Programming Skills: C (Master), C++ (Familiar), C# (Master), Java (Master), Python (Proficient)
+ SQL (Proficient) MATLAB (Proficient) 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
