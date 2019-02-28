@@ -18,9 +18,3 @@ A list of all the posts and pages found on the site.
 {% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
-
-<h2>Research</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-  {% if post==about %}
-{% endfor %}
