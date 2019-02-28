@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
+  * Date: June, 2018
+  * Advisor: Prof. Mengjun Kang
 * M.S. in Physical Geography (quit), Peking University, 2018.09-2019.06
+  * Expected Date: June, 2019, No Degree 
+  * Advisor: Prof. Jian Peng
 
 Work experience
 ======
