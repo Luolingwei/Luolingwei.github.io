@@ -19,12 +19,8 @@ A list of all the posts and pages found on the site.
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>CV</h2>
-{% for post in site.pages.cv %}
+<h2>Research</h2>
+{% for post in site.pages %}
   {% include archive-single.html %}
-{% endfor %}
-
-<h2>Contact</h2>
-{% for post in site.pages.markdown %}
-  {% include archive-single.html %}
+  {% if post==about %}
 {% endfor %}
