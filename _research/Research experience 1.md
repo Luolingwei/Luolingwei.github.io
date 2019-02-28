@@ -1,17 +1,16 @@
 ---
 title: "Research experience 1"
 collection: research
-type: "Remote Sensing"
+type: "Geography"
 permalink: /research/Research experience 1
-venue: "Wuhan University"
-date: 2016-03-01
+venue: "Peking University"
+date: 2018-07-01
 location: "Wuhan, China"
 ---
 
-Innovation and entrepreneurship training project (National level): Monitoring of poaching during the forbidden fishing period of the East China Sea based on the nighttime light images — Project manager
+Laboratory for Earth Surface Processes, Ministry of Education, College of Urban and Environmental Sciences, Peking University – Member 
 
 Description
 ======
-* The project stood out from 1,102 projects to be one of 150 national projects (¥10000 in funding) 
-* The project was rated as “outstanding” in the end (ratings include unqualified, qualified, outstanding) 
-* Lingwei Luo, Mengjun Kang, Jinhui Guo, Ying Zhuang, Zebin Liu, Yameng Wang, Liping Zou. Spatiotemporal pattern analysis of potential light seine fishing areas in the East China Sea using VIIRS day/night band imagery. International Journal of Remote Sensing (IF=1.8), 2018. Doi: 10.1080/01431161.2018.1524605.
+* Responsible for researches in various fields, such as typhoon disaster, urban environment 
+* Jian Peng, An Wang, Lingwei Luo, Yanxu Liu, Yi’na Hu, Jeroen Meersmans, Jiansheng Wu. Spatial identification of conservation priority areas for urban ecological land: An approach based on water ecosystem services. Land Degradation & Development (IF=7.3), 2019. Doi: 10.1002/ldr.3257.

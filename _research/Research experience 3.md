@@ -1,16 +1,16 @@
 ---
 title: "Research experience 3"
 collection: research
-type: "Geography"
+type: "Data Science"
 permalink: /research/Research experience 3
-venue: "Peking University"
-date: 2018-07-01
+venue: "Wuhan University"
+date: 2016-09-01
 location: "Wuhan, China"
 ---
 
-Laboratory for Earth Surface Processes, Ministry of Education, College of Urban and Environmental Sciences, Peking University – Member 
+Innovation and entrepreneurship training project (University level): Study on Spatiotemporal Pattern of Public Perception Deviation on Air Pollution Based on Social Platform Data – Member
 
 Description
 ======
-* Responsible for researches in various fields, such as typhoon disaster, urban environment 
-* Jian Peng, An Wang, Lingwei Luo, Yanxu Liu, Yi’na Hu, Jeroen Meersmans, Jiansheng Wu. Spatial identification of conservation priority areas for urban ecological land: An approach based on water ecosystem services. Land Degradation & Development (IF=7.3), 2019. Doi: 10.1002/ldr.3257.
+* Responsible for data cleaning and feature engineering on collected datasets
+* Responsible for establishing mathematical model for assessment of public perception deviation
