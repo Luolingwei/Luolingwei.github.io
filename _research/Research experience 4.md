@@ -4,7 +4,7 @@ collection: research
 type: "Remote Sensing"
 permalink: /research/Research experience 4
 venue: "Wuhan University"
-date: 2016-03-01
+date: 2016-03-15
 location: "Wuhan, China"
 ---
 
