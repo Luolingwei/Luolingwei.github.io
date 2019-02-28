@@ -20,7 +20,10 @@ Education
 
 Work experience
 ======
-* 2018.11 - Present : Data Analysis Intern, DiDi Company
+* 2018.08 - 2018.11 :  Big data development Intern, ByteDance Company, Beijing, China
+  * Responsible for data collection, data cleaning; responsible for statistics, analysis and presentation of various indicators, provided business-oriented data services.
+  * Extracted business needs based on products and services; built and developed big data platform.
+* 2018.11 - Present : Data Analysis Intern, DiDi Company, Beijing, China
   * Responsible for data analysis related to decision making of DiDi; developed algorithms for data extraction and analysis independently, further to make valuable conclusions for decision making.
   * Responsible for database construction; designed business reports independently; assisted in establishing monitoring system for business data.
   * Explored future trend and growth opportunities of mobility industry; put forward data-driven advice.
