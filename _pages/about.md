@@ -12,4 +12,4 @@ Hi! I'm Lingwei Luo, a graduate student at [College of Urban and Environmental S
 
 Most of my previous work focused on Remote Sening and Geography, but I have been focusing on Data Mining, Machine Learning and Algorithm since 2018. I aim to work as a Data Engineer/Software Development Engineer in the near future.
 
-I received my B.S.from [School of Resources and Environmental Sciences, Wuhan University](http://sres.whu.edu.cn/). And I am currently applying to 19 fall DS/CS programs in the United States.
+I received my B.S.in GIS from [School of Resources and Environmental Sciences, Wuhan University](http://sres.whu.edu.cn/). And I am currently applying to 19 fall DS/CS programs in the United States.

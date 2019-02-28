@@ -23,10 +23,8 @@ Work experience
 Skills
 ======
 * Language Skills: Mandarin Chinese (Native), English (Fluent): CET-6: 560/710 IELTS:7.0 
-* Software Skills: Excel (Proficient), PPT (Proficient), Photoshop (Master), Tableau (Proficient)
- SPSS (Proficient) PyCharm (Proficient), Eclipse (Master), Visual Studio (Master)
-* Programming Skills: C (Master), C++ (Familiar), C# (Master), Java (Master), Python (Proficient)
- SQL (Proficient) MATLAB (Proficient) 
+* Software Skills: Excel (Proficient), PPT (Proficient), Photoshop (Master), Tableau (Proficient), SPSS (Proficient), PyCharm (Proficient), Eclipse (Master), Visual Studio (Master)
+* Programming Skills: C (Master), C++ (Familiar), C# (Master), Java (Master), Python (Proficient), SQL (Proficient), MATLAB (Proficient) 
  
 Publications
 ======
@@ -45,6 +43,7 @@ Research
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Honors & Awards
 ======
