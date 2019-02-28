@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lingwei Luo / CV"
+title                    : "Lingwei Luo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
