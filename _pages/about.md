@@ -10,6 +10,6 @@ redirect_from:
 
 Hi! I'm Lingwei Luo (罗翎玮), a graduate student at [College of Urban and Environmental Sciences, Peking University](http://www.ues.pku.edu.cn/). This is the front page of my personal website that is powered by the [academicpages template](https://github.com/Luolingwei/Luolingwei.github.io) and hosted on GitHub pages.
 
-Most of my previous work focused on Remote Sening and Geography, and I have been focusing on Data Mining, Machine Learning and Algorithm since 2018. I aim to work as a Data Engineer/Software Development Engineer in the near future.
+Most of my previous work focused on Remote Sening and Geography, and I have been focusing on Data Mining, Machine Learning and Algorithm since 2017. I aim to work as a Data Engineer/Software Development Engineer in the near future.
 
 I received my B.S. in GIS from [School of Resources and Environmental Sciences, Wuhan University](http://sres.whu.edu.cn/). And I am currently applying to 19 fall DS/CS programs in the United States.
