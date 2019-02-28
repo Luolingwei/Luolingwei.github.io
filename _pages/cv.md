@@ -16,9 +16,10 @@ Education
 
 Work experience
 ======
-* 2018.11 - Present :  Data Analysis Intern
-  * DiDi Company
-  * Supervisor: He Zhao
+* 2018.11 - Present : Data Analysis Intern, DiDi Company
+  * Responsible for data analysis related to decision making of DiDi; developed algorithms for data extraction and analysis independently, further to make valuable conclusions for decision making.
+  * Responsible for database construction; designed business reports independently; assisted in establishing monitoring system for business data.
+  * Explored future trend and growth opportunities of mobility industry; put forward data-driven advice.
   
 Skills
 ======
@@ -44,7 +45,8 @@ Research
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+ 
+ 
 Honors & Awards
 ======
 * 2015.09  Excellent student of Wuhan University (Top 30%) 

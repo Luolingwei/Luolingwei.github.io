@@ -1,16 +1,16 @@
 ---
 title: "Research experience 3"
 collection: research
-type: "Remote Sensing"
+type: "Geography"
 permalink: /research/Research experience 3
-venue: "Wuhan University"
-date: 2017-07-01
+venue: "Peking University"
+date: 2018-07-01
 location: "Wuhan, China"
 ---
 
-Scientific innovation program of Chinese Academy of Sciences: Urban impervious surface extraction using NPP-VIIRS imagery – Member 
+Laboratory for Earth Surface Processes, Ministry of Education, College of Urban and Environmental Sciences, Peking University – Member 
 
 Description
 ======
-* Responsible for construction of indexes (housing vacancy index, ghost city index) and mapping
-* Qingyan Meng, Jinhui Guo, Lingwei Luo, Shufu Liu, Xianmei Huang. Ghost city monitoring in China using nighttime light data: An approach based on housing vacancy index. International Journal of Applied Earth Observation and Geoinformation (IF=4.0), 2019. Under review.
+* Responsible for researches in various fields, such as typhoon disaster, urban environment 
+* Jian Peng, An Wang, Lingwei Luo, Yanxu Liu, Yi’na Hu, Jeroen Meersmans, Jiansheng Wu. Spatial identification of conservation priority areas for urban ecological land: An approach based on water ecosystem services. Land Degradation & Development (IF=7.3), 2019. Doi: 10.1002/ldr.3257.
