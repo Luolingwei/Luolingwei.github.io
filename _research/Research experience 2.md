@@ -1,8 +1,8 @@
 ---
 title: "Research experience 2"
-collection: teaching
+collection: research
 type: "Geography"
-permalink: /teaching/Research experience 2
+permalink: /research/Research experience 2
 venue: "Wuhan University"
 date: 2018-07-01 — Present
 location: "Wuhan, China"

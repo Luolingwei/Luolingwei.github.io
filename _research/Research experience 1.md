@@ -1,8 +1,8 @@
 ---
 title: "Research experience 1"
-collection: teaching
+collection: research
 type: "Remote Sensing"
-permalink: /teaching/Research experience 1
+permalink: /research/Research experience 1
 venue: "Wuhan University"
 date: 2016-03-01
 location: "Wuhan, China"
