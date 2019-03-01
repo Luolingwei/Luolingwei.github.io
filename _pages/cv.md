@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Physical Geography (quit), Peking University, 2018.09-2019.06
-  * Expected Date: June, 2019, No Degree 
+  * Expected Date: June, 2019
   * Advisor: Prof. Jian Peng
 * B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
   * Date: June, 2018
