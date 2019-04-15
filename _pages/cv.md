@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Physical Geography (quit), Peking University, 2018.09-2019.06
+* Research Assistant in Geography, Peking University, 2018.09-2019.06
   * Expected Date: June, 2019
   * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/teachers_detail.php?id=88)
 * B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
