@@ -13,10 +13,10 @@ Education
 ======
 * Research Assistant in Geography, Peking University, 2018.09-2019.06
   * Expected Date: June, 2019
-  * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/teachers_detail.php?id=88)
+  * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/faculty/faculty1/lastname/p1/311932.htm)
 * B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
   * Date: June, 2018
-  * Advisor: [Prof. Mengjun Kang](http://sres.whu.edu.cn/info/1144/7984.htm)
+  * Advisor: [Prof. Mengjun Kang](https://sres.whu.edu.cn/info/1139/8067.htm)
 
 Work experience
 ======
