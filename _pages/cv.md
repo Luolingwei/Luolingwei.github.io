@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Science, New York University, 2019.09-2021.06
+  * Expected Date: June, 2021
 * Research Assistant in Geography, Peking University, 2018.09-2019.06
   * Expected Date: June, 2019
   * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/faculty/faculty1/lastname/p1/311932.htm)
@@ -20,9 +22,6 @@ Education
 
 Work experience
 ======
-* 2018.08 - 2018.11 :  Big Data Development Intern, ByteDance Company, Beijing, China
-  * Responsible for data collection, data cleaning; responsible for statistics, analysis and presentation of various indicators, provided business-oriented data services.
-  * Extracted business needs based on products and services; built and developed big data platform.
 * 2018.11 - 2019.03 : Data Analysis Intern, DiDi Company, Beijing, China
   * Responsible for data analysis related to decision making of DiDi; developed algorithms for data extraction and analysis independently, further to make valuable conclusions for decision making.
   * Responsible for database construction; designed business reports independently; assisted in establishing monitoring system for business data.
