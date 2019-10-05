@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* 2019.03 - Present : Software Engineer Intern, IQIYI, Inc (Baidu), Beijing, China
+* 2019.03 - 2019.08 : Software Engineer Intern, IQIYI, Inc (Baidu), Beijing, China
   * Relying on Druid and Elasticsearch, developed multidimensional indicators to monitor the quality of our recommendations, output reports and send emails automatically based on Linux every day.
   * Conducted statistics and visualization of indicators on Jupyter, output weekly reports using Pandas and Matplotlib.
   * Participated in prototype verification of recommendation algorithms, including Collaborative Filtering (CF), Gradient Boosting Decision Tree (GBDT), Factorization Machine (FM).
