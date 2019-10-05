@@ -12,5 +12,6 @@ Laboratory for Earth Surface Processes, Ministry of Education, College of Urban 
 
 Description
 ======
-* Responsible for researches in various fields, such as typhoon disaster, urban environment 
-* Jian Peng, An Wang, Lingwei Luo, Yanxu Liu, Yi’na Hu, Jeroen Meersmans, Jiansheng Wu. Spatial identification of conservation priority areas for urban ecological land: An approach based on water ecosystem services. Land Degradation & Development (IF=7.3), 2019. Doi: 10.1002/ldr.3257.
+* Conducted independent researches as Research Assistant in fields of typhoon disaster, urban environment, etc. 
+* 1 paper published (3rd author, Land Degradation & Development, IF=4.3, Doi: 10.1002/ldr.3257)
+* 1 paper in major review (5th author, Landscape Ecology, IF=4.3)

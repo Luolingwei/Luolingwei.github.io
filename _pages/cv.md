@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in Computer Science, New York University, 2019.09-2021.06
   * Expected Date: June, 2021
-* Research Assistant in Geography, Peking University, 2018.09-2019.06
+* Research Assistant in Geographical Information Science, Peking University, 2018.09-2019.06
   * Expected Date: June, 2019
   * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/faculty/faculty1/lastname/p1/311932.htm)
 * B.S. in Geographical Information Science, Wuhan University, 2014.09-2018.06
@@ -22,20 +22,23 @@ Education
 
 Work experience
 ======
-* 2018.11 - 2019.03 : Data Analysis Intern, DiDi Company, Beijing, China
-  * Responsible for data analysis related to decision making of DiDi; developed algorithms for data extraction and analysis independently, further to make valuable conclusions for decision making.
-  * Responsible for database construction; designed business reports independently; assisted in establishing monitoring system for business data.
-  * Explored future trend and growth opportunities of mobility industry; put forward data-driven advice.
-* 2019.03 - Present : Data Engineer Intern, IQIYI Company, Beijing, China
-  * Responsible for data analysis of the recommendation system, designed and output business reports independently.
-  * Responsible for user behavior analysis, conducted statistics and visualization of online and internal indicators.
-  * Participated in prototype verification of recommendation algorithms.
+* 2019.03 - Present : Software Engineer Intern, IQIYI, Inc (Baidu), Beijing, China
+  * Relying on Druid and Elasticsearch, developed multidimensional indicators to monitor the quality of our recommendations, output reports and send emails automatically based on Linux every day.
+  * Conducted statistics and visualization of indicators on Jupyter, output weekly reports using Pandas and Matplotlib.
+  * Participated in prototype verification of recommendation algorithms, including Collaborative Filtering (CF), Gradient Boosting Decision Tree (GBDT), Factorization Machine (FM).
+* 2018.11 - 2019.03 : Data Engineer Intern, DiDi Chuxing, Co. Ltd, Beijing, China
+  * Conducted data analysis using SQL, optimized and improved many SQL programs with more than 1000 rows.
+  * Participated in database maintenance using Hive, assisted in establishing monitoring system for database.
+  * Based on Sklearn and Seaborn in Python, conducted data mining to explore possible business improvement.
+
   
 Skills
 ======
 * Language Skills: Mandarin Chinese (Native), English (Fluent): CET-6: 560/710 IELTS:7.0 
-* Software Skills: Excel (Proficient), PPT (Proficient), Photoshop (Master), Tableau (Proficient), SPSS (Proficient), PyCharm (Proficient), Eclipse (Master), Visual Studio (Master)
-* Programming Skills: C (Master), C++ (Familiar), C# (Master), Java (Master), Python (Proficient), SQL (Proficient), MATLAB (Proficient) 
+* Programming Skills: Python, Java, C, C#, JavaScript, SQL, HTML/CSS, MATLAB 
+* Framework: Druid, Elasticsearch, Hive, MySQL, jQuery, Linux, Git
+* Tools: Jupyter, Postman, PyCharm, IntelliJ, Tableau, SPSS
+
  
 Publications
 ======
