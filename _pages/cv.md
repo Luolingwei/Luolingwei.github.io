@@ -25,7 +25,7 @@ Work experience
 * 2019.03 - 2019.08 : Software Engineer Intern, IQIYI, Inc (Baidu), Beijing, China
   * Relying on Druid and Elasticsearch, developed multidimensional indicators to monitor the quality of our recommendations, output reports and send emails automatically based on Linux every day.
   * Conducted statistics and visualization of indicators on Jupyter, output weekly reports using Pandas and Matplotlib.
-  * Participated in prototype verification of recommendation algorithms, including Collaborative Filtering (CF), Gradient Boosting Decision Tree (GBDT), Factorization Machine (FM).
+  * Participated in prototype verification of recommendation algorithms using Java, including Collaborative Filtering (CF), Gradient Boosting Decision Tree (GBDT), Factorization Machine (FM).
 * 2018.11 - 2019.03 : Data Engineer Intern, DiDi Chuxing, Co. Ltd, Beijing, China
   * Conducted data analysis using SQL, optimized and improved many SQL programs with more than 1000 rows.
   * Participated in database maintenance using Hive, assisted in establishing monitoring system for database.
@@ -34,10 +34,9 @@ Work experience
   
 Skills
 ======
-* Language Skills: Mandarin Chinese (Native), English (Fluent): CET-6: 560/710 IELTS:7.0 
-* Programming Skills: Python, Java, C, C#, JavaScript, SQL, HTML/CSS, MATLAB 
+* Programming Skills: Python, Java, C, C#, JavaScript, SQL, HTML/CSS, MATLAB, Ada, Scheme 
 * Framework: Druid, Elasticsearch, Hive, MySQL, jQuery, Linux, Git
-* Tools: Jupyter, Postman, PyCharm, IntelliJ, Tableau, SPSS
+* Tools: Jupyter, Postman, PyCharm, Visual Studio, IntelliJ, VSCode, Tableau, SPSS 
 
  
 Publications
