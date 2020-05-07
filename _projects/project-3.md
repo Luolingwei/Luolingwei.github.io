@@ -1,6 +1,6 @@
 ---
 title: "Online Map Service"
-excerpt: "This is a WebGIS program developed by Lingwei Luo <img src='https://raw.githubusercontent.com/Luolingwei/Online-Map-Service/master/WebApplication/Map.png' width='320'>"
+excerpt: "This is a WebGIS program developed by Lingwei Luo  <br/><img src='https://raw.githubusercontent.com/Luolingwei/Online-Map-Service/master/WebApplication/Map.png' width='500'>"
 collection: projects
 ---
 

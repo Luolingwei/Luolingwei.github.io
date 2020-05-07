@@ -1,6 +1,6 @@
 ---
 title: "Campus Info Query Software"
-excerpt: "This is a Map Info Query Software developed by Lingwei Luo <img src='https://raw.githubusercontent.com/Luolingwei/Campus-Info-Query-Software/master/Pictures/Login.png' width='320'>"
+excerpt: "This is a Map Info Query Software developed by Lingwei Luo  <br/><img src='https://raw.githubusercontent.com/Luolingwei/Campus-Info-Query-Software/master/Pictures/Login.png' width='500'>"
 collection: projects
 ---
 This is a Map Info Query Software developed by Lingwei Luo
