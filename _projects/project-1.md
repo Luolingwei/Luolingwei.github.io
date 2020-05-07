@@ -79,10 +79,6 @@ Program presentation
 * Video App
 ---------------------------------------------------
 
-<div align=center>
-<img src="./pictures/project1/Video/Swagger2.png" width="850"/>
-</div>
-
 ![avatar](https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/Swagger2.png)
 
 ---------------------------------------------------
