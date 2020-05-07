@@ -1,6 +1,6 @@
 ---
 title: "Video Share Platform"
-excerpt: "This is a WeChat Mini Program developed by Lingwei Luo <br/> It is a Video Share Platform which is similar to TikTok  <br/><img src='/images/project1.jpg' width='320'>"
+excerpt: "This is a WeChat Mini Program developed by Lingwei Luo <br/> It is a Video Share Platform which is similar to TikTok  <br/><img src='https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2188.jpg' width='320'>"
 collection: projects
 ---
 
@@ -76,6 +76,7 @@ Program presentation
 ---------
 
 * Video App
+
 ---------------------------------------------------
 <div align="center">
 <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/Swagger2.png" width="850"/>

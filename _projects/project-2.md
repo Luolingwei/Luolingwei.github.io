@@ -1,6 +1,6 @@
 ---
 title: "Online Chat App"
-excerpt: "This is an Online Chat Application developed by Lingwei Luo <br/> It is an Online Chat Platform which is similar to WeChat  <br/> <img src='/images/project2.jpg' width='320'>"
+excerpt: "This is an Online Chat Application developed by Lingwei Luo <br/> It is an Online Chat Platform which is similar to WeChat  <br/> <img src='https://raw.githubusercontent.com/Luolingwei/Online-Chat-App/master/Pictures/01.jpg' width='320'>"
 collection: projects
 ---
 
