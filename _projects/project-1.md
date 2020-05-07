@@ -77,7 +77,7 @@ Program presentation
 
 * Video App
 ---------------------------------------------------
-<div align=center>
+<div align="center">
 <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/Swagger2.png" width="850"/>
 </div>
 
@@ -93,18 +93,18 @@ Program presentation
 </div>
 
 <div align="center">
-    <img src="../images/pictures_project1/Video/IMG_2192.jpg" width="320"/>
-    <img src="../images/pictures_project1/Video/IMG_2193.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2192.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2193.jpg" width="320"/>
 </div>
 
 <div align="center">
-    <img src="../images/pictures_project1/Video/IMG_2191.jpg" width="320"/>
-    <img src="../images/pictures_project1/Video/IMG_2195.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2191.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2195.jpg" width="320"/>
 </div>
 
 <div align="center">
-    <img src="../images/pictures_project1/Video/IMG_2185.jpg" width="320"/>
-    <img src="../images/pictures_project1/Video/IMG_2194.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2185.jpg" width="320"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Video/IMG_2194.jpg" width="320"/>
 </div>
 
 ---------------------------------------------------
@@ -114,25 +114,25 @@ Program presentation
 ---------------------------------------------------
 
 <div align="center">
-    <img src="Pictures/Admin/01.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/01.png" width="850"/>
 </div>
 
 <div align="center">
-    <img src="Pictures/Admin/02.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/02.png" width="850"/>
 </div>
 
 <div align="center">
-    <img src="Pictures/Admin/03.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/03.png" width="850"/>
 </div>
 
 <div align="center">
-    <img src="Pictures/Admin/04.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/04.png" width="850"/>
 </div>
 
 <div align="center">
-    <img src="Pictures/Admin/05.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/05.png" width="850"/>
 </div>
 
 <div align="center">
-    <img src="Pictures/Admin/06.png" width="850"/>
+    <img src="https://raw.githubusercontent.com/Luolingwei/Video-Share-Platform/master/Pictures/Admin/06.png" width="850"/>
 </div>
