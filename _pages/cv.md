@@ -22,6 +22,11 @@ Education
 
 Work experience
 ======
+* 2020.06 - 2020.08 : Software Engineer Intern, Amazon Web Services, Seattle, US
+  * Responsible for extending Public-Facing functions in AWS Firewall Manager, added support for AWS Load Balancer (ALB and ELB) in Security Group Common Policy using Java and some AWS tools including SQS, Lambda, DynamoDB.
+  * Based on React and Typescript, extended AWS Management Console to support new resource types in Common Policy. 
+  * Made it possible for Millions of AWS users to centrally manage the Security Groups attached on their Load Balancers.
+
 * 2019.03 - 2019.08 : Software Engineer Intern, IQIYI, Inc (Baidu), Beijing, China
   * Relying on Druid, Elasticsearch, Kibana, Kafka, developed multidimensional indicators to monitor the quality of our recommendations, output reports and sent emails automatically based on Linux.
   * Conducted statistics and visualization of indicators on Jupyter, output weekly reports automatically using Pandas and Matplotlib.
@@ -37,8 +42,8 @@ Work experience
 Skills
 ======
 * Programming Skills: Java, Python, C++, C#, JavaScript, HTML/CSS, SQL, MATLAB, Ada, Scheme, ML
-* Framework: Spring Boot, Spring MVC, Mybatis, Netty, Druid, Elasticsearch, Spark, Hive, Redis, Zookeeper, jQuery, MUI, H5plus
-* Tools: Jupyter, Swagger2, Maven, Tomcat, MySQL, PostgreSQL, Linux, Git, Postman, Kibana, Charles, FFmpeg, Tableau
+* Framework: Spring Boot, Spring MVC, Redis, Netty, Elasticsearch, Druid, Spark, Hive, Zookeeper, Mybatis, jQuery, MUI, H5plus
+* Tools: MySQL, PostgreSQL, Linux, Git, Swagger2, Jupyter, Maven, Tomcat, Postman, Kibana, Charles, FFmpeg, Tableau
 
  
 Publications
