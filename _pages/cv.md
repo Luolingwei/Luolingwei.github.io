@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, New York University, 2019.09-2021.06
-  * Expected Date: June, 2021
+  * Date: June, 2021
 * Research Assistant in Geographical Information Science, Peking University, 2018.09-2019.06
   * Date: June, 2019
   * Advisor: [Prof. Jian Peng](http://www.ues.pku.edu.cn/english/faculty/faculty1/lastname/p1/311932.htm)
@@ -22,6 +22,8 @@ Education
 
 Work experience
 ======
+* 2021.06 - now : Software Engineer, Google, Mountain View, US
+  * Working on security projects for Google Photo Data Stewardship team
 * 2020.06 - 2020.08 : Software Engineer Intern, Amazon Web Services, Seattle, US
   * Responsible for extending Public-Facing functions in AWS Firewall Manager, added support for AWS Load Balancer (ALB and ELB) in Security Group Common Policy using Java and some AWS tools including SQS, Lambda, DynamoDB.
   * Based on React and Typescript, extended AWS Management Console to support new resource types in Common Policy. 
