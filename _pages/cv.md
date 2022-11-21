@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * 2021.06 - now : Software Engineer, Google, Mountain View, US
-  * Working on security projects for Google Photo Data Stewardship team
+  * Working for Google Photos
 * 2020.06 - 2020.08 : Software Engineer Intern, Amazon Web Services, Seattle, US
   * Responsible for extending Public-Facing functions in AWS Firewall Manager, added support for AWS Load Balancer (ALB and ELB) in Security Group Common Policy using Java and some AWS tools including SQS, Lambda, DynamoDB.
   * Based on React and Typescript, extended AWS Management Console to support new resource types in Common Policy. 
