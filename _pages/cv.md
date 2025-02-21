@@ -52,6 +52,6 @@ Honors & Awards
 ======
 * 2015.11  Second Prize Award of the 7th Mathematics Competition of Chinese College Students
 * 2016.11  First Prize Award of Asia and Pacific Mathematical Contest in Modeling
-* 2017.09 “Wang Zhizhuo”Innovative Talents Scholarship
+* 2017.09  Wang Zhizhuo Innovative Talents Scholarship
 * 2017.09  First Class Scholarship of Wuhan University
 * 2018.09  Outstanding undergraduate thesis
